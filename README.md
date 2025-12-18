@@ -1,4 +1,5 @@
 ```powershell
+# open a  PowerShell window and run:
 cd $env:USERPROFILE\Desktop\submit1
 git clone https://github.com/1hatemalharbi-rgb/submit1.git
 cd submit1
